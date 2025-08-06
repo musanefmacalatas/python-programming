@@ -9,7 +9,7 @@ This repository features hands-on Python exercises aligned with my learning path
 - `03_variables_and_data_types.py` – Introduction to variables and basic data types.
 - `04_working_with_strings.py` – String functions like lower, upper, replace, and indexing.
 - `05_working_with_numbers.py` – Arithmetic operations, order of operations, and math module.
-
+- `06_basic_calculator.py` – This program performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 ## 🎯 Goal
 
 To build a strong programming foundation using Python as I transition into tech-assisted virtual assistance and eventually web development in the future.
