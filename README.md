@@ -1,6 +1,6 @@
 # Python Exercises
 
-This repository contains beginner-level Python exercises aligned with my personal learning path. Each script is organized per topic and serves as part of my foundational practice in programming, in preparation for virtual assistant tasks and future web development projects.
+This repository features hands-on Python exercises aligned with my learning path. Each script is organized per topic and serves as part of my foundational practice in programming, in preparation for virtual assistant tasks and future web development projects.
 
 ## 📚 Topics Covered
 
