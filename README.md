@@ -10,6 +10,7 @@ This repository features hands-on Python exercises aligned with my learning path
 - `04_working_with_strings.py` – String functions like lower, upper, replace, and indexing.
 - `05_working_with_numbers.py` – Arithmetic operations, order of operations, and math module.
 - `06_basic_calculator.py` – This program performs basic arithmetic operations: addition, subtraction, multiplication, and division.
+- `07_mad_libs_game.py` – A simple game that asks the user for words and plugs them into a story. Great for practicing user input and string formatting.
   
 ## 🎯 Goal
 
