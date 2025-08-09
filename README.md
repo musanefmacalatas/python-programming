@@ -12,6 +12,7 @@ This repository features hands-on Python exercises aligned with my learning path
 - `06_basic_calculator.py` – This program performs basic arithmetic operations: addition, subtraction, multiplication, and division.
 - `07_mad_libs_game.py` – A simple game that asks the user for words and plugs them into a story. Great for practicing user input and string formatting.
 - `08_sample_lists_functions.py` – Demonstrates how to use various list functions and methods to manipulate lists in Python.
+- `09_tuples_exercise.py` – Demonstrates how to use tuples to store ordered, immutable collections in Python.
   
 ## 🎯 Goal
 
