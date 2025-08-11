@@ -14,7 +14,7 @@ This repository features hands-on Python exercises aligned with my learning path
 - `08_sample_lists_functions.py` – Demonstrates how to use various list functions and methods to manipulate lists in Python.
 - `09_tuples_exercise.py` – Demonstrates how to use tuples to store ordered, immutable collections in Python.
 - `10_functions.py` – Demonstrates how to create a Python function using 'def', pass parameters, and call the function with different arguments to display custom output.
-  
+- `11_return_statement.py` – Demonstrates how to use the return statement in Python functions to send back results, assign returned values to variables, and perform operations with the returned data. Includes examples with math computations and user input.
 ## 🎯 Goal
 
 To build a strong programming foundation using Python as I transition into tech-assisted virtual assistance and eventually web development in the future.
