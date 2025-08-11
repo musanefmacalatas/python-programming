@@ -4,7 +4,7 @@ This repository features hands-on Python exercises aligned with my learning path
 
 ## 📚 Topics Covered
 
-- `01_hello_world.py` – Basic print function to display text output.
+- `01_my_first_program.py` – Basic print function to display text output.
 - `02_drawing_shape.py` – Drawing a simple triangle shape using print statements.
 - `03_variables_and_data_types.py` – Introduction to variables and basic data types.
 - `04_working_with_strings.py` – String functions like lower, upper, replace, and indexing.
