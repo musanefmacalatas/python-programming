@@ -16,7 +16,7 @@ This repository features hands-on Python exercises aligned with my learning path
 - `10_functions.py` – Demonstrates how to create a Python function using 'def', pass parameters, and call the function with different arguments to display custom output.
 - `11_return_statement.py` – Demonstrates how to use the return statement in Python functions to send back results, assign returned values to variables, and perform operations with the returned data. Includes examples with math computations and user input.
 - `12_if_else.py` – Demonstrates how to use if, elif, and else statements to handle multiple conditions and apply different actions based on user input.
-
+- `13_if_else_comparison.py` – Demonstrates how to use if, elif, and else statements with comparison operators to find the maximum value among three numbers.
   
 ## 🎯 Goal
 
