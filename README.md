@@ -18,6 +18,7 @@ This repository features hands-on Python exercises aligned with my learning path
 - `12_if_else.py` – Demonstrates how to use if, elif, and else statements to handle multiple conditions and apply different actions based on user input.
 - `13_if_else_comparison.py` – Demonstrates how to use if, elif, and else statements with comparison operators to find the maximum value among three numbers.
 - `14_dictionary_lookup.py` – Demonstrates how to use dictionaries with `in` and `is not None` checks to validate key existence, handle missing values, and format output with f-strings.
+- `15_while_loop.py` – Demonstrates how to use a while loop with conditionals and user input to simulate a simple store, update variable values, control program flow with break, and display messages using f-strings.
   
 ## 🎯 Goal
 
