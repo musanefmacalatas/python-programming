@@ -19,6 +19,7 @@ This repository features hands-on Python exercises aligned with my learning path
 - `13_if_else_comparison.py` – Demonstrates how to use if, elif, and else statements with comparison operators to find the maximum value among three numbers.
 - `14_dictionary_lookup.py` – Demonstrates how to use dictionaries with `in` and `is not None` checks to validate key existence, handle missing values, and format output with f-strings.
 - `15_while_loop.py` – Demonstrates how to use a while loop with conditionals and user input to simulate a simple store, update variable values, control program flow with break, and display messages using f-strings.
+- `16_guessing_game.py` – This is a simple Python guessing game built using while loops and if-else statements. The program asks the player to guess a predefined word (SPIDERMAN). The player has a maximum of 3 attempts to guess correctly.
   
 ## 🎯 Goal
 
