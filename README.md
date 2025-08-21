@@ -21,6 +21,7 @@ This repository features hands-on Python exercises aligned with my learning path
 - `15_while_loop.py` – Demonstrates how to use a while loop with conditionals and user input to simulate a simple store, update variable values, control program flow with break, and display messages using f-strings.
 - `16_guessing_game.py` – This is a simple Python guessing game built using while loops and if-else statements. The program asks the player to guess a predefined word (SPIDERMAN). The player has a maximum of 3 attempts to guess correctly.
 - `17_for_loops_.py ` – This Python script demonstrates different applications of for loops. This exercise is designed to practice how for loops work, including iterating over strings, lists, ranges, and real-world datasets.
+- `18_exponent.py` – Demonstrates how to create functions to compute powers and sum of powers in Python, using loops and the exponent operator (**). Includes examples with clear comments for understanding the logic.
   
 ## 🎯 Goal
 
