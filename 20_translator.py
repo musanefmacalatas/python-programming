@@ -30,6 +30,8 @@ print("\n")
 # Example: "nefmacmod@example.com" -> "n******d@example.com
 
 def censor_email(email):
+    if "@" not in email:
+        return "Incorrect input"
 
     # Split the email into two parts: before '@' and after '@'
     username, domain = email.split("@")
