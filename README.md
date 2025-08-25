@@ -1,6 +1,9 @@
 # Python Programming Exercises
 
-This repository features hands-on Python exercises aligned with my learning path. Each script is organized per topic and serves as part of my foundational practice in programming, in preparation for virtual assistant tasks and future web development projects.
+This repository contains 30 Python exercises that document my learning journey in programming.  
+Each script is organized by topic with clear descriptions, showcasing hands-on practice in Python fundamentals.  
+
+These exercises not only strengthen my problem-solving and coding skills but also serve as part of my preparation for virtual assistant tasks (automation, data handling) and future projects in web development.
 
 ## 📚 Topics Covered
 
