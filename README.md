@@ -28,7 +28,8 @@ These exercises not only strengthen my problem-solving and coding skills but als
 - `19_2d_list_nestedloops.py` – This program demonstrates how to work with **2D lists** (lists inside a list) and use **nested loops** to iterate over rows and columns.
 - `20_translator.py` - This program demonstrates two string manipulation exercises using Python. "String Translator" Replaces all vowels (AEIOUaeiou) with the letter "g" or "G" depending on the case.Demonstrates conditional statements, loops, and string concatenation. "String Masking" Keeps the first and last character of a word visible while replacing the characters in between with asterisks (*). Demonstrates string slicing and the len() function.
 - `21_try_except.py` - This exercise demonstrates Python’s error handling mechanism using try, except, else, and finally. The goal is to make programs more reliable by preventing unexpected crashes when users provide invalid input or when errors occur during execution.
-  
+- `22_reading_files.py` - This script demonstrates multiple techniques for reading and processing text files in Python. It includes examples of:
+                        readable(), read(), readline(), readlines(), for loop iteration, context manager. 
 ## 🎯 Goal
 
 To build a strong programming foundation using Python as I transition into tech-assisted virtual assistance and eventually web development in the future.
