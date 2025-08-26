@@ -27,6 +27,7 @@ These exercises not only strengthen my problem-solving and coding skills but als
 - `18_exponent.py` – Demonstrates how to create functions to compute powers and sum of powers in Python, using loops and the exponent operator (**). Includes examples with clear comments for understanding the logic.
 - `19_2d_list_nestedloops.py` – This program demonstrates how to work with **2D lists** (lists inside a list) and use **nested loops** to iterate over rows and columns.
 - `20_translator.py` - This program demonstrates two string manipulation exercises using Python. "String Translator" Replaces all vowels (AEIOUaeiou) with the letter "g" or "G" depending on the case.Demonstrates conditional statements, loops, and string concatenation. "String Masking" Keeps the first and last character of a word visible while replacing the characters in between with asterisks (*). Demonstrates string slicing and the len() function.
+- `21_try_except.py` - This exercise demonstrates Python’s error handling mechanism using try, except, else, and finally. The goal is to make programs more reliable by preventing unexpected crashes when users provide invalid input or when errors occur during execution.
   
 ## 🎯 Goal
 
