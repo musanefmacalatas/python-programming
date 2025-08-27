@@ -30,7 +30,11 @@ These exercises not only strengthen my problem-solving and coding skills but als
 - `21_try_except.py` - This exercise demonstrates Python’s error handling mechanism using try, except, else, and finally. The goal is to make programs more reliable by preventing unexpected crashes when users provide invalid input or when errors occur during execution.
 - `22_reading_files.py` - This script demonstrates multiple techniques for reading and processing text files in Python. It includes examples of:
                         readable(), read(), readline(), readlines(), for loop iteration, context manager. 
-## 🎯 Goal
+- `23_write_files.py` - This script demonstrates basic file handling in Python, covering write (w), append (a), read (r), and append-read (a+) modes. It shows how to create or overwrite files, add new data without deleting existing content, and retrieve stored information. The use of seek(0) is also included to reset the file pointer and allow reading the entire file after an append operation.
+
+
+
+🎯 Goal
 
 To build a strong programming foundation using Python as I transition into tech-assisted virtual assistance and eventually web development in the future.
 
