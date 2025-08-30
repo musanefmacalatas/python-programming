@@ -31,6 +31,12 @@ These exercises not only strengthen my problem-solving and coding skills but als
 - `22_reading_files.py` - This script demonstrates multiple techniques for reading and processing text files in Python. It includes examples of:
                         readable(), read(), readline(), readlines(), for loop iteration, context manager. 
 - `23_write_files.py` - This script demonstrates basic file handling in Python, covering write (w), append (a), read (r), and append-read (a+) modes. It shows how to create or overwrite files, add new data without deleting existing content, and retrieve stored information. The use of seek(0) is also included to reset the file pointer and allow reading the entire file after an append operation.
+- `24_modules_and_pip.py` - This script demonstrates the use of modules in Python through three approaches:
+Built-in modules (e.g., math)
+Custom modules (user-created, e.g., demo_module.py.
+Pip-installed packages (third-party libraries, e.g., pyfiglet)
+It highlights how Python’s modular system allows code reuse, project organization, and extended functionality with external libraries.
+
 
 
 
